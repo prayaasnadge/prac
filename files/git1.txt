@@ -2,4 +2,8 @@ This is first file for git demo
 
 This is the first modification for demo.
 
+
 Adding developer b story
+
+Adding dev A story
+
